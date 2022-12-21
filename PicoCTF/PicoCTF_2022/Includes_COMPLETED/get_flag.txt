@@ -1,0 +1,3 @@
+1. Go to the website
+2. Go to the Developer Tools (Ctrl + Shift + i)
+3. Inspect both script.js and style.css and you will find the flag

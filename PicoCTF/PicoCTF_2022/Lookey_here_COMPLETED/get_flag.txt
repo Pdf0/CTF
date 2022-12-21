@@ -1,0 +1,3 @@
+1. $ wget https://artifacts.picoctf.net/c/294/anthem.flag.txt
+2. Use grep to find the flag
+3. $ grep -oE picoCTF{.*} anthem.flag.txt 

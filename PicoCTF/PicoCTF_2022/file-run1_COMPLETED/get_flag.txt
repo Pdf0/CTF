@@ -1,0 +1,3 @@
+1. $ wget https://artifacts.picoctf.net/c/308/run
+2. $ chmod +x run 
+3. Run the program and there is the flag.
