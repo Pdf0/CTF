@@ -1,2 +1,0 @@
-1. $ wget https://artifacts.picoctf.net/c/115/gdbme
-2. Just follow the instructions on gdb.

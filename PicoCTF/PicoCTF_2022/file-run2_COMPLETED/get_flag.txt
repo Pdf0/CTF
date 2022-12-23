@@ -1,3 +1,0 @@
-1. $ wget https://artifacts.picoctf.net/c/351/run
-2. $ chmod +x run
-3. $ ./run Hello!

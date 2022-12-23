@@ -1,11 +1,8 @@
-1. $ wget https://artifacts.picoctf.net/c/534/leak.tar
-2. Extract the files from leak.tar
-3. Check script.py to see how I got the encrypted password
-4. Since it's a Caesar Cyphre, we can go online and decrypt it using a shift of 13
+## <p style="text-align: center;">credstuff</p>
 
 <ol>
     <li>
-    We get the tar and extract them
+    We get the tar and extract it
 
     $ wget https://artifacts.picoctf.net/c/534/leak.tar; tar -xf leak.tar; rm leak.tar
 </li>

@@ -1,3 +1,0 @@
-1. I tried exiftool to look into the metadata, hexeditor to see it's binaries...
-2. When i opened in vscode i searched for brackets and i found what it looked like a flag.
-3. Copied it, added picoCTF on the start 'et voilá'.
