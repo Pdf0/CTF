@@ -1,1 +1,1 @@
-Most of this year's ctf's are going to be unexplained and are going to be for a since I'm mainly focusing on the ones from the current year :smile:
+Most of these ctf's will be unexplained as I'm now focusing more on this year's :smile:
