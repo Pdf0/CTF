@@ -1,0 +1,5 @@
+1. $ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/ende.py
+2. $ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/pw.txt
+3. $ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/flag.txt.en
+4. $ python3 ende.py -d flag.txt.en
+5. Use the pw.txt as password

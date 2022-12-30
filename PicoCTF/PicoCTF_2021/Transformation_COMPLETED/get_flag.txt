@@ -1,0 +1,2 @@
+1. $ wget https://mercury.picoctf.net/static/dd6004f51362ff76f98cb8c699510f23/enc
+2. See 'script.py' to understand

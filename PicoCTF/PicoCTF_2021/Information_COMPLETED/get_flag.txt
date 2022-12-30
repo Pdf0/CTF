@@ -1,0 +1,5 @@
+1. $ wget https://mercury.picoctf.net/static/a614a27d4cb251d04c7d2f3f3f76a965/cat.jpg
+2. $ exiftool cat.png
+3. Take out the 'Licence': cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
+4. $ echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 -d
+

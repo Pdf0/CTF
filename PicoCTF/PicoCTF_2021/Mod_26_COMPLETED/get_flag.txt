@@ -1,0 +1,3 @@
+1. Copy cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_Ncualgvd} from the website
+2. Use 'caesar_cyphre.py' to decypher the flag.
+

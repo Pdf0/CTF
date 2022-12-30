@@ -1,0 +1,5 @@
+1. $ wget https://mercury.picoctf.net/static/7495259e963bd5b67d0fb8b616652618/static
+2. $ wget https://mercury.picoctf.net/static/7495259e963bd5b67d0fb8b616652618/ltdis.sh
+3. $ chmod ltdis.sh
+4. $ ./ltdis.sh static
+5. $ cat static.ltdis.strings.txt

@@ -1,0 +1,4 @@
+1. $ wget https://mercury.picoctf.net/static/fe16c756149cfa85f23e73cd9dbd6a25/Addadshashanammu.zip
+2. $ unzip Addadshashanammu
+3. 'cd' through all of the directories in 'Addadshashanammu'
+4. $ ./fang-of-haynekhtnamet
