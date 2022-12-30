@@ -1,0 +1,1 @@
+1. $ wget https://mercury.picoctf.net/static/a4ce675e8f85190152d66014c9eebd7e/vuln.c
