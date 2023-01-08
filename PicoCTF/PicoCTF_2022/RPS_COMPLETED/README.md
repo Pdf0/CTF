@@ -25,7 +25,7 @@ The computer randomly chooses a number between 0 and 2. Then it goes to the arra
 102    return true;
 ```
 
-We see that the program uses ```strstr(str1, str2)``` to compare the strings. This funtion sees if str2 is in str, if it is it returns a pointer, if not it returns NULL. Well, if it only sees if the correct answer is in ```str1```, we can give all the three answers as the input, so they all are inside ```str1```
+We see that the program uses ```strstr(str1, str2)``` to compare the strings. This funtion sees if str2 is in str, if it is it returns a pointer, if not it returns NULL. Well, if it only sees if the correct answer is in ```str1```, we can give all the three answers as the input, so they're all inside ```str1```
 </li>
 <br/>
     <li>
