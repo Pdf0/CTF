@@ -11,7 +11,7 @@
 
 ```py
 30  request = {
-31      "buy": "flag"
+31      "buy": "clothes"
 32  }
 33  json_send(request)
 ```
