@@ -1,15 +1,15 @@
-## <p style="text-align: center;">substitution1</p>
+## <p style="text-align: center;">substitution2</p>
 
 <ol>
     <li>
     We get the file
 
-    $ wget https://artifacts.picoctf.net/c/414/message.txt
+    $ wget https://artifacts.picoctf.net/c/107/message.txt
 </li>
 <br/>
     <li>
     
-This is another [substitution cypher](https://www.geeksforgeeks.org/substitution-cipher/) ctf. If you haven't done one yet I recomend you starting with "substitution0" first.
+Here we have another [substitution cypher](https://www.geeksforgeeks.org/substitution-cipher/) ctf. If you haven't done one yet I recomend you starting with "substitution0" first and follow the mini-series.
 </li>
 <br/>
     <li>
@@ -21,5 +21,5 @@ To crack this text we can use a [frequency attack](https://www.geeksforgeeks.org
 <details>
     <summary> Flag </summary>
     
-    PICOCTF{FR3XU3NCY_4774CW5_4R3_C001_4871E6FZ}
+    PICOCTF{N6R4M_4N41Y515_15_73D10U5_8E1BF808}
 </details>
