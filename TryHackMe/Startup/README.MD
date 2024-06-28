@@ -27,7 +27,7 @@ drwxrwxrwx    2 0        0            4096 Jun 12  2020 ftp
 
 The `ftp` directory was empty so there was nothing more to see in ftp.
 
-Since http was also open, I took a look at the website, wich looked pretty basic. I ran `gobuster` to find any hidden routes:
+Since http was also open, I took a look at the website, which looked pretty basic. I ran `gobuster` to find any hidden routes:
 
 ```
 $ gobuster dir --url http://xx.xx.xxx.xxx/ --wordlist ../../../wordlists/directory_list_2.3_small.txt
